@@ -6,7 +6,6 @@ Python enthusiast
 
 * 🌍  I'm based in Burgas, Bulgaria
 * ✉️  You can contact me at [kaloyan.harakchiiski@gmail.com](mailto:kaloyan.harakchiiski@gmail.com)
-* 🧠  I'm learning Machine Learning at SoftUni
 * 🤝  I'm open to collaborating on all sorts of python projects
 
 <a href="https://www.github.com/KaloyanH" target="_blank" rel="noreferrer"><img
